@@ -1,3 +1,3 @@
 Software Carpentry Git Tutorial 
 
-https://swcarpentry.github.io/git-novice/07-github.html
+Link: https://swcarpentry.github.io/git-novice/07-github.html
